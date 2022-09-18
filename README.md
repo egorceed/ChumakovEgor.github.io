@@ -27,4 +27,45 @@
     </ul>
     <a href="index.html">Return to home page</a>
   </body>
+  
+  <style>
+  body {
+  background: white;
+}
+y  {
+  font-size: 10px ;
+}
+p {
+  color: black;
+  text-align: left ;
+  font-size: 18px ;
+  font-family: monospace ;
+  letter-spacing: 1px;
+  text-shadow: -0.5px 0.5px grey;
+
+}
+.museo {
+  width: 250px;
+  border-radius: 5px; 
+}
+h1 {
+  font-weight: bold;
+  font-size: 40px ;
+}
+
+.madrid  {
+  width: 250px;
+  border-radius: 5px; 
+  float: left;
+  margin-right: 20px;
+}
+.park  {
+  width: 250px;
+  border-radius: 5px; 
+}
+.puerta  {
+  width: 250px;
+  border-radius: 5px; 
+
+  </style>
 </html>
